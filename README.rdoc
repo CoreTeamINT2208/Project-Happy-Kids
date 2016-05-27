@@ -6,7 +6,7 @@
 •	Tên nhóm : CoreTeam
 
 •	Github nhóm: https://github.com/CoreTeamINT2208
-  link các bài tập tutorial: https://github.com/CoreTeamINT2208?tab=repositories
+  link các bài tập tutorial: https://github.com/CoreTeamINT2208/Tutorial-Homework
 
 •	Các thành viên :
   o	Lương Ỏn Khăm
@@ -15,11 +15,14 @@
   o	Phạm Đức Dũng
   o	Nguyễn Thanh Thi
 == Thông Tin Dự Án
-•	Tên phần mềm : Happy Kid
+•	Tên phần mềm : Happy Kids
+  Happy kids là ứng dụng hỗ trợ các bậc phụ huynh quản lí thông tin của các con mình. Sau khi tạo tài khoản và đăng nhập, người dùng có thể tạo hồ sơ thông tin ứng với mỗi đứa con của mình. Để quản lí thông tin dễ dàng và chính xác hơn, ứng dụng hỗ trợ chức năng sửa thông tin và xóa hồ sơ của đứa con.
 
 •	Code: 
-  link đăng nhập đăng xuất: https://github.com/CoreTeamINT2208/Bai-Tap-Nhom-1
-  link ứng dụng: https://github.com/CoreTeamINT2208/Source-HappyKid
+  + Source code cho trang đăng nhập, đăng xuất: Project-Happy-Kids/Happy_Kids_Login_Logout/  
+    link đăng nhập, đăng xuất: https://github.com/CoreTeamINT2208/Bai-Tap-Nhom-1
+  + Source code chức năng thêm, xóa, sửa thông tin của Kids: Project-Happy-Kids/Happy_Kids_Creat_Edit_Delete
+    link ứng dụng: https://github.com/CoreTeamINT2208/Source-HappyKid
 
 •	Pivotaltracker nhóm: https://www.pivotaltracker.com/n/projects/1555889
 
@@ -49,6 +52,6 @@
 •	Các file test: Tạo folder test/integration
 
 == Kết Quả Test
-•	về test cucumber:
+•	về test cucumber: Ảnh Test_cucumber
 
 •	về test các lỗi trong trang web:
