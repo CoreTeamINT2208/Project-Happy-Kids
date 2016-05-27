@@ -1,0 +1,54 @@
+== Thông Tin Môn Học
+•	Bộ môn : Công nghệ phần mềm (INT2208 3)
+
+•	Giảng viên: Trương Anh Hoàng
+== Thông Tin Nhóm
+•	Tên nhóm : CoreTeam
+
+•	Github nhóm: https://github.com/CoreTeamINT2208
+  link các bài tập tutorial: https://github.com/CoreTeamINT2208?tab=repositories
+
+•	Các thành viên :
+  o	Lương Ỏn Khăm
+  o	Trần Thị Loan
+  o	Mai Khoa Hưởng
+  o	Phạm Đức Dũng
+  o	Nguyễn Thanh Thi
+== Thông Tin Dự Án
+•	Tên phần mềm : Happy Kid
+
+•	Code: 
+  link đăng nhập đăng xuất: https://github.com/CoreTeamINT2208/Bai-Tap-Nhom-1
+  link ứng dụng: https://github.com/CoreTeamINT2208/Source-HappyKid
+
+•	Pivotaltracker nhóm: https://www.pivotaltracker.com/n/projects/1555889
+
+•	Link app: 
+  Thưa thầy vì nhóm chúng em chưa biết cách liên kết để mỗi user (tài khoản) có 1 generate scaffold (dữ liệu riêng ) nên chúng e đã tạo 2 trang web, 1 trang web đăng nhập đăng xuất và 1 trang web là dự án ! chúng em đã tìm và chưa làm được ! Mong thầy hiểu cho nhóm chúng em. 
+  link Đăng nhập đăng xuất : https://happykid.herokuapp.com/
+  link app happykid : https://shrouded-sea-43288.herokuapp.com/
+== Các Chức Năng Chính Của App
+•	Người dùng nhập thông tin tên tuổi chiều cao cân nặng của đứa con mình
+
+•	Có chức năng thêm xóa sửa mỗi đứa trẻ
+
+== Quy Trình Tạo Sản Phẩm
+•	Tạo model cho user và generate scaffold Kid: User, Kid
+
+•	Tạo controller: user controller, session controller, static_page controller
+
+•	Tạo generate scaffold : Kid
+
+•	Các trang html:
+
+  o	Static_page: about.html.erb, about.html.erb, help.html.erb, home.html.erb
+  o	Layout: _footer.html.erb, _header.html.erb, _shim.html.erb
+  o	User: _user.html.erb, edit.html.erb, - index.html.erb, new.html.erb, show.html.erb
+  o	Session: new.html.erb
+  o	Shared: _error_messages.html.erb, _user._info.html.erb
+•	Các file test: Tạo folder test/integration
+
+== Kết Quả Test
+•	về test cucumber:
+
+•	về test các lỗi trong trang web:
