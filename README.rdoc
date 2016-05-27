@@ -53,5 +53,6 @@
 
 == Kết Quả Test
 •	về test cucumber: Ảnh Test_cucumber
+  link: https://github.com/CoreTeamINT2208/Project-Happy-Kids/blob/master/Test_cucumber.png
 
 •	về test các lỗi trong trang web:
