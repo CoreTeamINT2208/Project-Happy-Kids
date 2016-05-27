@@ -19,10 +19,10 @@
   Happy kids là ứng dụng hỗ trợ các bậc phụ huynh quản lí thông tin của các con mình. Sau khi tạo tài khoản và đăng nhập, người dùng có thể tạo hồ sơ thông tin ứng với mỗi đứa con của mình. Để quản lí thông tin dễ dàng và chính xác hơn, ứng dụng hỗ trợ chức năng sửa thông tin và xóa hồ sơ của đứa con.
 
 •	Code: 
-  + Source code cho trang đăng nhập, đăng xuất: Project-Happy-Kids/Happy_Kids_Login_Logout/  
-    link đăng nhập, đăng xuất: https://github.com/CoreTeamINT2208/Bai-Tap-Nhom-1
+  + Source code cho trang đăng nhập, đăng xuất: Project-Happy-Kids/Happy_Kids_Login_Logout
+    link: https://github.com/CoreTeamINT2208/Project-Happy-Kids/tree/master/Happy_Kids_Login_Logout
   + Source code chức năng thêm, xóa, sửa thông tin của Kids: Project-Happy-Kids/Happy_Kids_Creat_Edit_Delete
-    link ứng dụng: https://github.com/CoreTeamINT2208/Source-HappyKid
+    link: https://github.com/CoreTeamINT2208/Project-Happy-Kids/tree/master/Happy_Kids_Creat_Edit_Delete
 
 •	Pivotaltracker nhóm: https://www.pivotaltracker.com/n/projects/1555889
 
